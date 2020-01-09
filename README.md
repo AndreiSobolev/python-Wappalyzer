@@ -4,6 +4,7 @@ python-Wappalyzer
 [![Build Status](https://travis-ci.org/chorsley/python-Wappalyzer.svg?branch=master)](https://travis-ci.org/chorsley/python-Wappalyzer)
 [![PyPI version](https://badge.fury.io/py/python-Wappalyzer.svg)](https://badge.fury.io/py/python-Wappalyzer)
 [![Coverage Status](https://coveralls.io/repos/github/chorsley/python-Wappalyzer/badge.svg?branch=master)](https://coveralls.io/github/chorsley/python-Wappalyzer?branch=master)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 
 Python driver for [Wappalyzer][], a web application
